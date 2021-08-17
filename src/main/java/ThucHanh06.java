@@ -6,7 +6,6 @@ public class ThucHanh06 {
             if (Character.isUpperCase(str.charAt(i))) {
                 s += str.charAt(i);
             }
-
         }
         return s;
     }
@@ -18,7 +17,6 @@ public class ThucHanh06 {
                 continue;
             } else
                 s += str.charAt(i);
-
         }
         return s;
     }
